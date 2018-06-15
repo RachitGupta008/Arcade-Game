@@ -5,9 +5,9 @@ This project was part of the final project of  [Object-oriented javascript cours
 Launch the game
 ===============
 
-[Play]()
+[Play](https://rachitgupta008.github.io/Arcade-Game/game.html)
 
-Instrucions
+Instructions
 ===========
 1. Launch the game.
 2. Use the navigation keys of the keyboard to move up-down-left-right.
