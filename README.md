@@ -1,9 +1,12 @@
 frontend-nanodegree-arcade-game (Cross the bug)
 ===============================
 This project was part of the final project of  [Object-oriented javascript course](https://classroom.udacity.com/courses/ud015) By udacity
+
 Launch the game
 ===============
+
 [Play]()
+
 Instrucions
 ===========
 1. Launch the game.
